@@ -1,2 +1,2 @@
-# KitchenSink_Web
-A prototype for exploring the front end technologies for Self Recruitment.
+# ReactLearning: KitchenSink Web
+A prototype for exploring the React.
